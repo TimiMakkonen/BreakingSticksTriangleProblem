@@ -13,11 +13,7 @@
 
 **Note:**	To check that we can form a triangle, we only need to make sure that each 3 pieces have length less than n/2, where n is the length of the original stick.
 
----
-
 ## Outcome
-
----
 
 **RESULT:** ~0.25
 
